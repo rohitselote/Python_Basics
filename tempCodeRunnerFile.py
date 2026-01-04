@@ -1,0 +1,5 @@
+a = input("Enter the value of a : ")
+# b = input("Enter the value of b : ")
+# print("Number a is ",a)
+# print("Number b is ",b)
+# print("sum of a and  b is ",a+b)
